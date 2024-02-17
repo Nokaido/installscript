@@ -1,0 +1,98 @@
+raspistill -o ~/Pictures/first_image.jpg
+pip install picamera
+pip3 install picamera
+python3 -m venv /home/nokaido/workspace/camenv
+cd workspace/camenv/
+ls
+cd bin/
+ls
+activate
+venv activate
+cat activate
+cd workspace/camenv/
+ls
+cd bin/
+ls
+source activate
+pip3 install picamera
+.code
+sudo apt-get install bluefish
+cd..
+cd ..
+cd camtest/
+python3 main.py 
+source /home/nokaido/workspace/camenv/bin/activate
+cd workspace/camtest/
+ls
+python3 main.py 
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install code
+sudo rpi-update
+libcamera-hello
+libcamera-hello -t 0
+pip3 install picamera2[gui]
+sudo apt install -y python3-libcamera python3-kms++
+sudo apt install -y python3-pyqt5 python3-prctl libatlas-base-dev ffmpeg python3-pip
+pip3 install numpy --upgrade
+pip3 install picamera2[gui]
+sudo apt install -y python3-libcamera python3-kms++
+sudo apt install -y python3-pyqt5 python3-prctl libatlas-base-dev ffmpeg python3-pip
+pip3 install numpy --upgrade
+pip3 install picamera2[gui]
+sudo apt install -y python3-libcamera python3-kms++ libcap-dev
+rpicam-hello
+pip3 install picamera2[gui]
+libcamera-hello -t 0
+pip3 install numpy
+pip install opencv-python
+pip3 install picamera2
+pip3 install libcamera
+/bin/python /home/nokaido/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/nokaido/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt
+sudo apt install -y python3-picamera2
+sudo apt install -y python3-libcamera python3-kms++
+sudo apt install -y python3-prctl libatlas-base-dev ffmpeg python3-pip
+sudo apt install -y python3-pyqt5 python3-opengl # only if you want GUI features
+
+source /home/nokaido/workspace/camenv/bin/activate
+sudo apt install -y python3-pyqt5 python3-opengl # only if you want GUI features
+sudo apt install -y python3-prctl libatlas-base-dev ffmpeg python3-pip
+sudo apt install -y python3-libcamera python3-kms++
+sudo apt install -y python3-prctl libatlas-base-dev ffmpeg python3-pip
+sudo apt install -y python3-pyqt5 python3-opengl # only if you want GUI features
+pip3 install numpy --upgrade
+pip3 install picamera2
+find
+find libcamera
+cd /
+find libcamera
+find -h
+find -help
+find / libcamera
+find / -type d -name "libcamera"
+sudo find / -type d -name "libcamera"
+rm /usr/lib/aarch64-linux-gnu/libcamera
+rm /usr/lib/aarch64-linux-gnu/libcamera -d
+rm /usr/lib/aarch64-linux-gnu/libcamera -d -f
+rm /usr/lib/aarch64-linux-gnu/libcamera -d -r
+sudo rm /usr/lib/aarch64-linux-gnu/libcamera -d -r -f
+sudo rm /usr/lib/aarch64-linux-gnu/spa-0.2/libcamera -d -r -f
+sudo rm /usr/lib/python3/dist-packages/libcamera -d -r -f
+sudo apt install -y python3-picamera2 -force
+sudo apt install -y python3-picamera2
+sudo apt install -y python3-libcamera python3-kms++
+sudo apt install -y python3-prctl libatlas-base-dev ffmpeg python3-pip
+sudo apt install -y python3-pyqt5 python3-opengl # only if you want GUI features
+pip3 install numpy --upgrade
+pip3 install numpy --upgrade --force
+sudo apt install -y python3-pyqt5 python3-opengl # only if you want GUI features --force
+sudo apt install -y python3-pyqt5 python3-opengl --force
+sudo apt install -y python3-libcamera python3-kms++ --force
+sudo apt install -y python3-libcamera --force
+sudo apt install -y python3-libcamera
+sudo apt uninstall python3-picamera2
+sudo apt --help
+sudo apt reinstall python3-picamera2
+source /home/nokaido/workspace/camenv/bin/activate
+sudo apt reinstall python3-picamera2
+libcamera-hello -t 0
